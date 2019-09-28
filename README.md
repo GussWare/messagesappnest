@@ -6,7 +6,7 @@
 
 ## Description
 
-[Nest](https://github.com/GussWare/messagesappnest) Nest Basic Crud Project.
+[Nest](https://github.com/GussWare/messagesappnest) Basic Project to create read update and delete messages in NestJS Framework.
 
 ## Installation
 
